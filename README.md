@@ -1,3 +1,4 @@
+![Image alt](https://i.imgur.com/B9gJGkj.png)
 
 StellarEngineeringCoin development tree
 
